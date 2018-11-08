@@ -66,4 +66,5 @@ gem 'refile'
 gem 'mini-majick'
 gem 'kaminari'
 gem 'bootstrap'
-gem 'jquery-rails’
+gem 'jquery-rails'
+gem 'Auto-complete'
